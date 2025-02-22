@@ -1,0 +1,45 @@
+# Dépendances
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Fichiers de build
+dist/
+build/
+out/
+
+# Fichiers Docker
+.docker/data/
+
+# IDE et éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+.vs/
+
+# Fichiers de cache
+.cache/
+.temp/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*~
+
+# Fichiers de configuration locaux
+config.local.js 
